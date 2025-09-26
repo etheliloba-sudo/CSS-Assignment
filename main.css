@@ -86,9 +86,16 @@ body {
 
   .bottom-section {
     grid-template-columns: 1fr;
-     html {
-    font-size: 87.5%; 
+   
+@media (max-width: 480px) {
+  body {
+    font-size: 13px;
   }
+
+  .box {
+    font-size: 0.95rem;
+}
+
   }
 
   .profile-pic {
