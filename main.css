@@ -58,7 +58,7 @@ body {
 .bottom-section {
   display: grid;
   grid-template-columns: 0.5fr 0.5fr;
-  grid-template-rows: 400px 400px;
+  grid-template-rows: 450px 450px;
   gap: 20px;
 }
 
@@ -86,7 +86,7 @@ body {
 
   .bottom-section {
     grid-template-columns: 1fr;
-    font-size: 0.6rem;
+    font-size: 0.9rem;
   }
 
   .profile-pic {
