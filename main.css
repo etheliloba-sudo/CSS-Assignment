@@ -86,7 +86,7 @@ body {
 
   .bottom-section {
     grid-template-columns: 1fr;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
 
   .profile-pic {
